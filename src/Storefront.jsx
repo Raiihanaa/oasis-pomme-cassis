@@ -20,10 +20,10 @@ const REVOLUT_TAG = "raihanav111";
 
 // ⚠️ Colle ici le lien public de ton image (ex. depuis Supabase Storage).
 // Laisse vide ("") pour garder l'illustration codée (chicha + fruits) par défaut.
-const BANNER_IMAGE_URL = "https://qhkpehujmkeraupworzb.supabase.co/storage/v1/object/public/chicha/795ec212-4c1d-4d3a-82c1-7a271a2a803b.png";
+const BANNER_IMAGE_URL = import.meta.env.BASE_URL + "img/banner.png";
 // ⚠️ Colle ici le lien de ta bannière format mobile (verticale ou plus carrée).
 // Laisse vide ("") pour utiliser la même bannière que sur ordinateur, recadrée.
-const BANNER_IMAGE_URL_MOBILE = "https://qhkpehujmkeraupworzb.supabase.co/storage/v1/object/public/chicha/e.png";
+const BANNER_IMAGE_URL_MOBILE = "";
 
 // ⚠️ Code test fourni publiquement par Mondial Relay ("BDTEST"). Un message
 // d'avertissement s'affichera dans le widget tant que ce code n'est pas
