@@ -74,3 +74,4 @@ Remplace le contenu de `src/Storefront.jsx` par celui de
 - Si `npm install` ou le site affiche une erreur liée à Node.js,
   installe la dernière version LTS depuis https://nodejs.org
 
+
