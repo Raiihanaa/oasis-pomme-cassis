@@ -73,3 +73,4 @@ Remplace le contenu de `src/Storefront.jsx` par celui de
   Mondial Relay une fois ton compte pro activé
 - Si `npm install` ou le site affiche une erreur liée à Node.js,
   installe la dernière version LTS depuis https://nodejs.org
+
