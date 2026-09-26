@@ -23,7 +23,7 @@ const REVOLUT_TAG = "raihanav111";
 const BANNER_IMAGE_URL = import.meta.env.BASE_URL + "img/banner.png";
 // ⚠️ Colle ici le lien de ta bannière format mobile (verticale ou plus carrée).
 // Laisse vide ("") pour utiliser la même bannière que sur ordinateur, recadrée.
-const BANNER_IMAGE_URL_MOBILE = "";
+const BANNER_IMAGE_URL_MOBILE = import.meta.env.BASE_URL + "img/banner-mobile.png";
 
 // ⚠️ Code test fourni publiquement par Mondial Relay ("BDTEST"). Un message
 // d'avertissement s'affichera dans le widget tant que ce code n'est pas
